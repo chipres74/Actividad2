@@ -16,7 +16,7 @@ int main()
 		int salario;
 		int salatotal;
 		float operacionn;
-
+		cout << "Creador: Juan Pablo Chipres Arteaga" << endl;
 		cout << "Buen dia profesor" << endl;
 		cout << "Veamos cual sera su salario :)" << endl;
 		cout << "Ingese su salario: " << endl;
